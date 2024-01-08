@@ -46,7 +46,7 @@ const Footer = () => {
         <p className="font-montserrat cursor-pointer">Terms & conditions</p>
       </div> 
       <div className="flex justify-center items-center mt-10 mb-1">
-          <p className="font-montserrat text-white-400">Made with ❤️ By Jayant Verma</p>
+          <p className="font-montserrat text-white-400">Made with ❤️ By Jayant </p>
       </div>
     </footer>
   );

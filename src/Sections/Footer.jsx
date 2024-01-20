@@ -1,3 +1,4 @@
+
 import React from "react";
 import { footerLogo } from "../assets/images";
 import { footerLinks, socialMedia } from "../Constants";
@@ -51,5 +52,6 @@ const Footer = () => {
     </footer>
   );
 };
+
 
 export default Footer;

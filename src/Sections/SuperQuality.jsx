@@ -6,7 +6,8 @@ const SuperQuality = () => {
   return (
     <section
       className="flex justify-between items-center max-lg:flex-col gap-10 w-full max-container"
-      id="about-us">
+      id="about-us"
+    >
       <div className="flex-1 flex flex-col">
         <h2 className="font-palanquin text-4xl capitalize lg:max-w-lg font-bold">
           We Provide you
@@ -27,7 +28,13 @@ const SuperQuality = () => {
         </div>
       </div>
       <div className="flex-1 flex justify-center items-center">
-        <img src={shoe8} alt="shoe8" className="object-contain" width={570} height={522} />
+        <img
+          src={shoe8}
+          alt="shoe8"
+          className="object-contain"
+          width={570}
+          height={522}
+        />
       </div>
     </section>
   );
